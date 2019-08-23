@@ -1,0 +1,5 @@
+Polna
+Miejska
+Lesna
+Gorska
+Wiejska
